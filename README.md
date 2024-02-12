@@ -1,4 +1,3 @@
-# Github_Profile_Card
 <h1> Github_Profile_Card-Website </h1>
 
 I've independently designed and coded a responsive Github_Profile_Card-Website, and it's ready to explore!
